@@ -1,0 +1,42 @@
+{
+  "Source": "",
+  "Type": "",
+  "HP": {
+    "Value": 1,
+    "Notes": "(1d1+0)"
+  },
+  "AC": {
+    "Value": 10,
+    "Notes": ""
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [],
+  "Abilities": {
+    "Str": 10,
+    "Dex": 10,
+    "Con": 10,
+    "Int": 10,
+    "Wis": 10,
+    "Cha": 10
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [],
+  "DamageImmunities": [],
+  "ConditionImmunities": [],
+  "Saves": [],
+  "Skills": [],
+  "Senses": [],
+  "Languages": [],
+  "Challenge": "7",
+  "Traits": [],
+  "Actions": [],
+  "BonusActions": [],
+  "Reactions": [],
+  "LegendaryActions": [],
+  "MythicActions": [],
+  "Description": "",
+  "Player": "player",
+  "Version": "3.11.5",
+  "ImageURL": ""
+}
