@@ -1,23 +1,23 @@
 {
   "Source": "",
-  "Type": "",
+  "Type": "PG",
   "HP": {
-    "Value": 1,
-    "Notes": "(1d1+0)"
+    "Value": 57,
+    "Notes": "(7d6+0) +16 interdizione arcana"
   },
   "AC": {
-    "Value": 10,
+    "Value": 13,
     "Notes": ""
   },
   "InitiativeModifier": 0,
   "InitiativeAdvantage": false,
   "Speed": [],
   "Abilities": {
-    "Str": 10,
-    "Dex": 10,
-    "Con": 10,
-    "Int": 10,
-    "Wis": 10,
+    "Str": 12,
+    "Dex": 16,
+    "Con": 13,
+    "Int": 18,
+    "Wis": 8,
     "Cha": 10
   },
   "DamageVulnerabilities": [],

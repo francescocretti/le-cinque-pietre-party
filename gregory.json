@@ -1,24 +1,24 @@
 {
   "Source": "",
-  "Type": "",
+  "Type": "PG",
   "HP": {
-    "Value": 1,
-    "Notes": "(1d1+0)"
+    "Value": 53,
+    "Notes": "(7d8+0)"
   },
   "AC": {
-    "Value": 10,
+    "Value": 17,
     "Notes": ""
   },
-  "InitiativeModifier": 0,
+  "InitiativeModifier": 4,
   "InitiativeAdvantage": false,
   "Speed": [],
   "Abilities": {
-    "Str": 10,
-    "Dex": 10,
-    "Con": 10,
-    "Int": 10,
-    "Wis": 10,
-    "Cha": 10
+    "Str": 13,
+    "Dex": 18,
+    "Con": 14,
+    "Int": 13,
+    "Wis": 16,
+    "Cha": 9
   },
   "DamageVulnerabilities": [],
   "DamageResistances": [],
