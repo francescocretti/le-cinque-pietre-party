@@ -11,7 +11,9 @@
   },
   "InitiativeModifier": 0,
   "InitiativeAdvantage": false,
-  "Speed": [9],
+  "Speed": [
+    9
+  ],
   "Abilities": {
     "Str": 14,
     "Dex": 11,
@@ -25,10 +27,13 @@
   "DamageImmunities": [],
   "ConditionImmunities": [],
   "Saves": [],
-  "Skills": ["Heavy armor", "Medium armor", "Light armor", "Shields", "Simple weapons", "Smith tools", "Vehicles (land)"],
+  "Skills": [],
   "Senses": [],
-  "Languages": ["Common", "Celestial"],
-  "Challenge": "7",
+  "Languages": [
+    "Common",
+    "Celestial"
+  ],
+  "Challenge": "5",
   "Traits": [],
   "Actions": [],
   "BonusActions": [],
